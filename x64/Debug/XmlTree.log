@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+D:\YandexDisk\Phantom\Rabota\TESTS_FOR_JOB\GUI\XmlTree\Command.h(3,11): warning C4570:  Command: не был объявлен явно как абстрактный, однако содержит абстрактные функции
+D:\YandexDisk\Phantom\Rabota\TESTS_FOR_JOB\GUI\XmlTree\Command.h(3,11): message :  void Command::Execute(void): абстрактный
+D:\YandexDisk\Phantom\Rabota\TESTS_FOR_JOB\GUI\XmlTree\Command.h(7): message :   см. объявление "Command::Execute"
+D:\YandexDisk\Phantom\Rabota\TESTS_FOR_JOB\GUI\XmlTree\Command.h(3,11): message :  void Command::UnExecute(void): абстрактный
+D:\YandexDisk\Phantom\Rabota\TESTS_FOR_JOB\GUI\XmlTree\Command.h(8): message :   см. объявление "Command::UnExecute"
+D:\YandexDisk\Phantom\Rabota\TESTS_FOR_JOB\GUI\XmlTree\MyForm.cpp(8,1): warning C4829:  Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  XmlTree.vcxproj -> D:\YandexDisk\Phantom\Rabota\TESTS_FOR_JOB\GUI\XmlTree\x64\Debug\XmlTree.exe
